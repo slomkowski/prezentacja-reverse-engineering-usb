@@ -4,7 +4,7 @@ Prezentacja wygłoszona 2019-03-06 na *Poznań Security Meetup #3*.
 
 ## Prezentacja
 
-PDF: `slides/prez.pdf`. Jest też źródło w Pandoc.
+PDF: [slides/prez.pdf](slides/prez.pdf). Jest też źródło w Pandoc.
 
 ## Code
 
